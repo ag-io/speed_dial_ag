@@ -1,0 +1,134 @@
+var favorites = [
+  {
+    name: "localhost",
+    url: "http://localhost:8888/tree?"
+  },
+  {
+    name: "deribit",
+    url: "https://deribit.com"
+  },
+  {
+    name: "skew",
+    url: "https://www.skew.com/dashboard/bitcoin-options"
+  },
+  {
+    name: "cheddar",
+    url: "https://cheddar.com"
+  },
+  {
+    name: "bovada",
+    url: "https://www.bovada.lv"
+  },
+  {
+    name: "deviantArt",
+    url: "https://cryptopanic.com"
+  },
+  {
+    name: "coindesk",
+    url: "https://coindesk.com"
+  },
+  {
+    name: "GitHub",
+    url: "https://auth.nycdatascience.com/#/"
+  },
+  {
+    name: "tc",
+    url: "https://techcrunch.com"
+  },
+  {
+    name: "utoday",
+    url: "https://u.today"
+  },
+  {
+    name: "tnw",
+    url: "https://thenextweb.com"
+  },
+  {
+    name: "DreamHost",
+    url: "https://premium55.web-hosting.com:2083"
+  },
+  {
+    name: "tradingeconomics",
+    url: "https://tradingeconomics.com"
+  },
+  {
+    name: "Netflix",
+    url: "http://www.netflix.com/browse"
+  },
+  {
+    name: "Amazon",
+    url: "http://www.espn.com"
+  },
+  {
+    name: "Hackernoon",
+    url: "http://www.hackernoon.com"
+  },
+  {
+    name: "Readability",
+    url: "https://github.com"
+  }
+  ,
+  {
+    name: "WhatsApp",
+    url:"https://kaggle.com"
+  },
+  {
+    name: "sports",
+    url: "https://vipboxtv.se"
+  },
+  {
+    name: "Wolfram Alpha",
+    url: "https://www.wolframalpha.com/"
+  },
+  {
+    name: "Instagram",
+    url: "https://instagram.com/"
+  },
+  {
+    name: "feedly",
+    url: "https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6"
+  },
+  {
+    name: "Twitter",
+    url: "https://twitter.com"
+  },
+  {
+    name: "Linked in",
+    url: "https://www.linkedin.com"
+  },
+  {
+    name: "dribbble",
+    url: "https://dribbble.com"
+  },
+  {
+    name: "Dropbox",
+    url: "https://superuser.com"
+  },
+  {
+    name: "Google Drive",
+    url: "https://drive.google.com/drive/u/0/my-drive"
+  },
+  {
+    name: "documentary",
+    url: "https://documentarymania.com"
+  },
+  {
+    name: "Google Admin",
+    url: "https://admin.google.com/"
+  },
+  {
+    name: "eBay",
+    url: "http://www.ebay.de"
+  },
+  {
+    name: "stack overflow",
+    url: "http://stackoverflow.com"
+  },
+  {
+    name: "iCloud",
+    url: "https://siteinspire.com"
+  },
+
+
+
+];

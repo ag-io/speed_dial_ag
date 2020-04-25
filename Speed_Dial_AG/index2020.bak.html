@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<script></script>
+	<meta charset="UTF-8">
+	<title></title>
+	<link rel="stylesheet" type="text/css" href="main.css">
+</head>
+<body>
+<h2 style="text-align: center;"><img alt="" src="https://alexguyton.xyz/wp-content/uploads/2018/04/blu_code_key.png" style="width: 128px; height: 128px;" /></h2>
+
+<p style="text-align: center;"><span style="font-family:arial,helvetica,sans-serif; font-weight: 100 !important;"><span style="color: #fe5668 !important;">☟ ~ Search below on DuckDuckGo ~ ☟</span></span></p>
+	<form id="search" action="https://duckduckgo.com/">
+		<input type="text" autofocus name="q" { this.form.submit(); }">
+
+	</form>
+	<ul id="favorites">
+		<!-- populated via javascript -->
+	</ul>
+</body>
+<script src="SITES.json"></script>
+<script>
+	var list = document.getElementById('favorites');
+	for (var i in favorites) {
+		// add <li>
+		var item = document.createElement('li');
+		list.appendChild(item);
+		// add <a href="i.url">
+		var link = document.createElement('a');
+		link.setAttribute('href', favorites[i].url);
+		item.appendChild(link)
+		// add <img src="lower_strip(i.name).png" alt="i.name">
+		var icon = document.createElement('img');
+		icon.setAttribute('src', 'icons/'+favorites[i].name.toLowerCase().replace(/\s/g,'')+".png");
+		icon.setAttribute('alt', favorites[i].name);
+		link.appendChild(icon)
+	};
+</script>
+</html>

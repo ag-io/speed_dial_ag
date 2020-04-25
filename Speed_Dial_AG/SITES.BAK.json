@@ -1,0 +1,110 @@
+var favorites = [
+  {
+    name: "localhost",
+    url: "http://localhost:8888/tree?"
+  },
+  {
+    name: "GitHub",
+    url: "https://auth.nycdatascience.com/#/"
+  },
+  {
+    name: "stack overflow",
+    url: "http://stackoverflow.com"
+  },
+  {
+    name: "Wolfram Alpha",
+    url: "https://www.wolframalpha.com/"
+  },
+  {
+    name: "Readability",
+    url: "https://github.com"
+  },
+  {
+    name: "Instagram",
+    url: "https://instagram.com/"
+  },
+  {
+    name: "feedly",
+    url: "https://calendar.google.com/calendar/r?pli=1"
+  },
+  {
+    name: "Twitter",
+    url: "https://twitter.com"
+  },
+  {
+    name: "Linked in",
+    url: "https://www.linkedin.com"
+  },
+  {
+    name: "dribbble",
+    url: "https://dribbble.com"
+  },
+  {
+    name: "deviantArt",
+    url: "https://chart-studio.plot.ly/Auth/login/?next=%2Fsettings"
+  },
+  {
+    name: "Dropbox",
+    url: "https://www.dropbox.com/home"
+  },
+  {
+    name: "Google Drive",
+    url: "https://drive.google.com/drive/u/0/my-drive"
+  },
+  {
+    name: "WhatsApp",
+    url:"https://web.whatsapp.com"
+  },
+  {
+    name: "DreamHost",
+    url: "https://premium55.web-hosting.com:2083"
+  },
+  {
+    name: "Google Admin",
+    url: "https://admin.google.com/"
+  },
+  {
+    name: "eBay",
+    url: "http://www.ebay.de"
+  },
+  {
+    name: "Amazon",
+    url: "http://www.amazon.com"
+  },
+  {
+    name: "iCloud",
+    url: "https://www.icloud.com"
+  },
+  {
+    name: "Google",
+    url: "https://www.google.com"
+  },
+  {
+    name: "YouTube",
+    url: "https://www.youtube.com"
+  },
+  {
+    name: "Netflix",
+    url: "http://www.netflix.com/browse"
+  },
+  {
+    name: "CouchPotato",
+    url: ""
+  },
+  {
+    name: "NZBGet",
+    url: ""
+  },
+  {
+    name: "DOGnzb",
+    url: ""
+  },
+  {
+    name: "Plex",
+    url: ""
+  },
+  {
+    name: "Synology",
+    url: ""
+  }
+];
